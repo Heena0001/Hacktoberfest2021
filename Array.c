@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+//This is HTML code//
 <html lang="en">
 <head>
   <title>Admin Dashboard</title>
@@ -14,7 +15,7 @@
       border-radius: 0;
     }
     
-    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    // Set height of the grid so .sidenav can be 100% (adjust as needed) //
     .row.content {height: 450px}
     
     /* Set gray background color and 100% height */
@@ -190,3 +191,4 @@
 
 <footer class="container-fluid text-center">
   <p>Footer Text</p
+  /*ENDING OF HTML*/
