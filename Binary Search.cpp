@@ -1,3 +1,4 @@
+/*BINARY SEARCH PROGRAM*/
 #include<stdio.h>    
 #include<stdlib.h>  
 int main(){  
@@ -43,7 +44,7 @@ for(j=0;j<c;j++)
 {    
 printf("%d\t",mul[i][j]);    
 }    
-printf("\n");    
+printf("\n");  //\n for print the statement in next line  
 }    
 return 0;  
 }
